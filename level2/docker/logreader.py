@@ -1,7 +1,7 @@
 import random
 import time
 
-filename = 'crap.log'
+filename = '/logs/crap.log'
 
 lines = []
 with open (filename, 'r') as f:
